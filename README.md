@@ -59,6 +59,6 @@ More on my [repositories page](https://github.com/DesaleRohit?tab=repositories).
 ## Connect
 
 - **Portfolio:** [rohitdesale.vercel.app](https://rohitdesale.vercel.app)
-- **LinkedIn:** [Rohit Desale](https://www.linkedin.com/in/rohit-desale-93330616b/)
+<!-- - **LinkedIn:** [Rohit Desale](https://www.linkedin.com/in/rohit-desale-93330616b/) -->
 - **GitHub:** [@DesaleRohit](https://github.com/DesaleRohit)
 - **Email:** rohitdesale005@gmail.com
